@@ -5,7 +5,7 @@ from ever.core import to
 from ever.core import dist
 from ever.core.logger import info
 
-from ever import opt, trainer, metric, preprocess
+from ever import opt, trainer, metric, preprocess, data
 
 from ever.interface import *
 
